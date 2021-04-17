@@ -6,6 +6,15 @@ border-top-style: dotted;
 border-width: 5px;
 border-color: #845460;
 width: 30%;
-h1 {color: #7b113a;}
-h2 {color: #7b113a;}
-h3 {color: #7b113a;}
+}
+h1 
+{
+  color: #7b113a;
+}
+h2 {
+  color: #7b113a;
+}
+h3 
+{
+  color: #7b113a;
+}
